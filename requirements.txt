@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+groq
+sentence-transformers
+faiss-cpu
+python-dotenv
+numpy
+streamlit_agraph
+torch
+langchain_groq
